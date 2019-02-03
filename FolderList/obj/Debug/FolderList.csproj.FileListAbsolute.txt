@@ -1,0 +1,10 @@
+C:\Users\Lars\Documents\Visual Studio 2017\Projects\FolderList\FolderList\bin\Debug\FolderList.exe.config
+C:\Users\Lars\Documents\Visual Studio 2017\Projects\FolderList\FolderList\bin\Debug\FolderList.exe
+C:\Users\Lars\Documents\Visual Studio 2017\Projects\FolderList\FolderList\bin\Debug\FolderList.pdb
+C:\Users\Lars\Documents\Visual Studio 2017\Projects\FolderList\FolderList\obj\Debug\FolderList.Properties.Resources.resources
+C:\Users\Lars\Documents\Visual Studio 2017\Projects\FolderList\FolderList\obj\Debug\FolderList.csproj.GenerateResource.Cache
+C:\Users\Lars\Documents\Visual Studio 2017\Projects\FolderList\FolderList\obj\Debug\FolderList.csproj.CoreCompileInputs.cache
+C:\Users\Lars\Documents\Visual Studio 2017\Projects\FolderList\FolderList\obj\Debug\FolderList.exe
+C:\Users\Lars\Documents\Visual Studio 2017\Projects\FolderList\FolderList\obj\Debug\FolderList.pdb
+C:\Users\Lars\Documents\Visual Studio 2017\Projects\FolderList\FolderList\obj\Debug\FolderList.csprojAssemblyReference.cache
+C:\Users\Lars\Documents\Visual Studio 2017\Projects\FolderList\FolderList\obj\Debug\FolderList.MainForm.resources
